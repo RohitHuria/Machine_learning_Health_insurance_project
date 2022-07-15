@@ -5,7 +5,6 @@ It encompasses rates for smokers and non-smokers, separately listed for each age
 
 
 Goal for this Notebook:
-This Notebook will show :
- Data Handling
- Importing Data with Pandas
- Cleaning Data
+Data Handling
+Importing Data with Pandas
+Cleaning Data
